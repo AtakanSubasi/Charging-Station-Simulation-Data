@@ -29,14 +29,14 @@ The dataset is available in the repository and can be downloaded directly from t
 
 ## How to Run the Project
 
-1. **Clone the Repository**
+1. ** Clone the Repository**
 
    
 bash
    git clone (https://github.com/AtakanSubasi/Charging-Station-Simulation-Data.git)
 
 
-2. **Install Dependencies** Ensure you have Python installed, then install the required libraries using pip:
+2. ** Install Dependencies** Ensure you have Python installed, then install the required libraries using pip:
 
    
 bash
@@ -45,7 +45,7 @@ bash
    git clone (https://github.com/AtakanSubasi/Charging-Station-Simulation-Data/blob/main/requirements)
 
 
-3. ##After downloading the main code, download the file (Charging-Station-Simulation-Data). If you don't download it, you won't be able to retrieve the data. To download the data:
+3. ## After downloading the main code, download the file (Charging-Station-Simulation-Data). If you don't download it, you won't be able to retrieve the data. To download the data:
 
 bash
    git clone (https://github.com/AtakanSubasi/Charging-Station-Simulation-Data/blob/main/charging_station_simulation_data.csv)
@@ -55,6 +55,11 @@ bash
    
 bash
    jupyter notebook
+
+5. ## You can download the code from the link below and try the code yourself in jupyter notebook.
+
+bash
+   git clone (https://github.com/AtakanSubasi/Charging-Station-Simulation-Data/blob/main/charging_station_simulation_data.ipynb)
 
 
 ## Tools and Libraries Used
