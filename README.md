@@ -42,6 +42,8 @@ bash
 bash
    pip install -r requirements.txt
 
+   git clone (https://github.com/AtakanSubasi/Charging-Station-Simulation-Data/blob/main/requirements)
+
 
 3. **Run the Jupyter Notebook** Open the Jupyter Notebook included in the repository to execute the analysis and visualization steps:
 
