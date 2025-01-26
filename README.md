@@ -33,7 +33,7 @@ The dataset is available in the repository and can be downloaded directly from t
 
    
 bash
-   git clone https://github.com/username/repository-name.git
+   git clone [https://github.com/username/repository-name.git](https://github.com/AtakanSubasi/Charging-Station-Simulation-Data.git)
 
 
 2. **Install Dependencies** Ensure you have Python installed, then install the required libraries using pip:
