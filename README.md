@@ -50,7 +50,7 @@ bash
 bash
    git clone (https://github.com/AtakanSubasi/Charging-Station-Simulation-Data/blob/main/charging_station_simulation_data.csv)
 
-4. **Run the Jupyter Notebook** Open the Jupyter Notebook included in the repository to execute the analysis and visualization steps:
+4. ** Run the Jupyter Notebook** Open the Jupyter Notebook included in the repository to execute the analysis and visualization steps:
 
    
 bash
