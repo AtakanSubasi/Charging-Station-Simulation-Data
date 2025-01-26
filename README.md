@@ -45,7 +45,12 @@ bash
    git clone (https://github.com/AtakanSubasi/Charging-Station-Simulation-Data/blob/main/requirements)
 
 
-3. **Run the Jupyter Notebook** Open the Jupyter Notebook included in the repository to execute the analysis and visualization steps:
+3. ##After downloading the main code, download the file (Charging-Station-Simulation-Data). If you don't download it, you won't be able to retrieve the data. To download the data:
+
+bash
+   git clone (https://github.com/AtakanSubasi/Charging-Station-Simulation-Data/blob/main/charging_station_simulation_data.csv)
+
+4. **Run the Jupyter Notebook** Open the Jupyter Notebook included in the repository to execute the analysis and visualization steps:
 
    
 bash
