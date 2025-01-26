@@ -1,0 +1,17 @@
+# Requirements for Electric Vehicle Charging Station Analysis Project
+
+# Data manipulation and analysis
+pandas==1.5.3
+
+# Numerical computations
+numpy==1.24.1
+
+# Data visualization
+matplotlib==3.6.2
+seaborn==0.12.1
+
+# Interactive geographic maps
+folium==0.14.0
+
+# Machine learning and clustering
+scikit-learn==1.1.3
