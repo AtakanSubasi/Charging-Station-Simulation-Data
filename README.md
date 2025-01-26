@@ -90,5 +90,6 @@ Developed By
 This project was developed and maintained by Atakan Subasi.
 For any inquiries or suggestions, feel free to contact me via:
 
-GitHub: Atakan Subasi
-Email: atakansubasi.as@gmail.com
+**GitHub: Atakan Subasi
+
+**Email: atakansubasi.as@gmail.com
